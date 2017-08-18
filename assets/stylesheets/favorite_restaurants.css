@@ -27,7 +27,12 @@ h1{
   font-size: 32px;
 }
 
-  font-size: 20px;
+footer{
+
+    display: inline-block;
+    background-color: #C63D0F;
+    clear: both;
+  }
 }
 
 h1.logo{
